@@ -1,5 +1,5 @@
 # NodeBots PK
-NodeBots Events in Pakistan 🇵🇰
+NodeBots Events in Pakistan <img alt="Pakistan Flag" src="/image/pk.svg" title="Pakistan Flag" width="16">
 
 ![NodeBots](/image/nodebots.png "NodeBots")
 
@@ -28,3 +28,6 @@ Turn on/off 💡 light bulbs and other home appliance.
 Joystick and Accelerometer controlled 🚗 Car with a camera and livestream.
 
 [Source](https://github.com/SkyImpel/Robotics-IoT-Car)
+
+## Upcoming Events
+Join us on FB and stay up-to-date. [SkyImpel Events on FB](https://www.facebook.com/SkyImpel/events/)
